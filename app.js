@@ -1,0 +1,3 @@
+/*
+    Make a function that converts RGB Decimal values into a Hexadecimal representation
+*/
