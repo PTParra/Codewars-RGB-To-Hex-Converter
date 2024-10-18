@@ -50,9 +50,7 @@ function convertToHex(number) {
     
     number = number.toString(16);
 
-    if(number.length !== 2){
-        number = number.padStart(2, "0");
-    }
+    number = number.padStart(2, "0");
 
     number = number.toUpperCase();
 
